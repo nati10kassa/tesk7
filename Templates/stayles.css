@@ -1,0 +1,23 @@
+
+body{
+  background-color:rgb(186, 204, 238)
+}
+
+h1,footer,div{
+font-family: 'Montserrat', sans-serif;
+    color: #154970;
+  text-align: center;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p{
+  color: black;
+}
+
+
+
